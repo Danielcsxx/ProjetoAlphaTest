@@ -1,1 +1,1 @@
-teste
+Testes com o gitignore.
