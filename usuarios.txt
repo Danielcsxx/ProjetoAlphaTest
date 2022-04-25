@@ -1,0 +1,6 @@
+Alguns usuarios que possuem acesso ao servidor:
+
+Daniel;
+Fabiana; 
+João;
+Cristina.
