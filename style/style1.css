@@ -1,5 +1,5 @@
 :root {
-    --colorBg: blue;
+    --colorBg: rgb(0, 0, 32);
     --colorMain: #fff;
     --colorBorder: darkred;
     --colorRgb: rgb(0, 0, 88);

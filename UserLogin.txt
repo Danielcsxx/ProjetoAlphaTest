@@ -2,3 +2,10 @@ Informações de preferência.
 
 novos detalhes adicionados para os novos estudos.
 
+Novos detalhes usando o Git stash para salvar.
+
+
+
+
+Novas funções colocadas em prática.
+
