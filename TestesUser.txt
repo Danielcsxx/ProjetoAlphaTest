@@ -1,9 +1,0 @@
-Pequenos testes utilizando uma outra branch
-
-
-
-posteriormente serao adicionados a branch main.
-
-
-
-testes
