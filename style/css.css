@@ -13,7 +13,7 @@ p {
     color: var(--colorMain);
     line-height: 3rem;
     margin: 4rem;
-    max-width: 55rem;
+    max-width: 50rem;
 }
 
 .fullscreen {
@@ -27,5 +27,5 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10rem;
+    gap: 8rem;
 }
