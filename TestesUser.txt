@@ -1,9 +1,12 @@
-Pequenos testes utilizando uma outra branch
+Pequenos testes utilizando uma outra branch.
 
 
 
-posteriormente serao adicionados a branch main.
+Posteriormente serao adicionados a branch main.
 
 
 
-testes
+Testes.
+
+
+Novos testes foram feitos. Ambos bem sucedidos.
