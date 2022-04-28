@@ -18,3 +18,8 @@ Testes sendo feitos e refeitos. Para uma melhor performance no uso das minhas Sk
 
 
 Estude. Treine e Repita.
+
+
+
+
+Novos testes foram feitos. Tudo ocorreu como tinha que ser. Tudo OK.
