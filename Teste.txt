@@ -1,0 +1,2 @@
+Arquivo criado para testes.
+Relacionado a erros em subir uma pasta que foi apagada anteriormente no repositorio.
